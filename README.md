@@ -21,7 +21,9 @@ CSV Parser Core - This application is designed and developed using C# and .NET c
 The usage for this application is the ability to detect duplicate values within csv files. To build this application you can use the following commands to build for each platform as listed below.
 
 Windows 10 X64 (dotnet publish -c Release -r win10-x64)
+
 OSX X64 (dotnet publish -c Release -r osx-x64)
+
 Linux Ubuntu x64 (dotnet publish -c Release -rubuntu-x64)
 
    ENJOY!
